@@ -8,9 +8,9 @@
 		"fieldName"			"speedmeter"
 		"zpos"				"-100"
 		"xpos"				"cs-0.5"
-		"ypos"				"rs+1"
-		"wide"				"128"
-		"tall"				"32"
+		"ypos"				"c128"
+		"wide"				"100"
+		"tall"				"24"
 		"image"				"replay/thumbnails/speed"
 		"scaleImage"		"1"
 	}
