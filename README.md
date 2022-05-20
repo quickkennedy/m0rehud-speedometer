@@ -1,6 +1,7 @@
 # m0rehud
 
-**m0rehud, competitive HUD updated and improved by Hypnotize**
+**m0rehud, competitive HUD updated and improved by Hypnotize**<br>
+Speedometer by quickkennedy
 
 <a>LINKS</a>
 ====
